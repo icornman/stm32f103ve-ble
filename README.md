@@ -1,4 +1,4 @@
-# STM32F103VE BLE
+# STM32F103VE BLE Project
 This repository serves as my practical project for working with the STM32F103VE microcontroller and the HM-19 Bluetooth Low Energy (BLE) module. This project is developed in [Keil](https://www.keil.com/). 
 
 ### Contributing:
